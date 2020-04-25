@@ -1,0 +1,2 @@
+# //wskazujemy pliki i foldery które nie maja być wysyłane do GITa
+node modules
